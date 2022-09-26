@@ -1,16 +1,13 @@
-# test40
+# Bottom Navigation Bar in Flutter with three packages 
 
-A new Flutter project.
+in this video tutorial we will explain how to use bottom navigation bar widget in flutter framework and how to use 3 package with it ..
+##- Youtube
+[YouTube: YouTube](https://www.youtube.com/c/BemoCode)
+##- facebook
+ [facebook: facebook](https://www.facebook.com/0maroo00)
+##- Linkedin
+ [Linkedin: Linkedin](https://www.linkedin.com/in/marwan-hamdy-7674a414b/)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+📺 Watch Video
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
